@@ -4,7 +4,9 @@ Programming language relationship visualization
 # Usage
 
     git clone https://github.com/QingYun/pl-network.git
-    cd pl-network/visualization
+    cd pl-network
+    git checkout release
+    cd visualization
     npm install
     
     # to build
