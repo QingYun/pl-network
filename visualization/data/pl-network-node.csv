@@ -1,0 +1,1211 @@
+Id,Label,ns:computer.programming_language.introduced
+ns:g.122kcq0m,Baltie,
+ns:g.122x30ld,DMDScript,
+ns:m.0100pwgw,Hack,2014
+ns:m.010134,BETA,
+ns:m.01025wcw,LotusScript,
+ns:m.010f6pwn,Premise,
+ns:m.010p5v53,Boxer,
+ns:m.010pkn7n,DScript,
+ns:m.010py,Atlas Autocode,
+ns:m.010rdrn4,Swift,2007
+ns:m.010sd4y3,Swift,2014
+ns:m.010vvkkj,TML,
+ns:m.01159vfc,Lean,
+ns:m.011jpc,ATOLL,
+ns:m.011jqv,BUGSYS,
+ns:m.011jv1,Z++,
+ns:m.011k7v,CORC,
+ns:m.011k8l,JOSS,1964
+ns:m.011sq2h3,PL-6,
+ns:m.011v7w1m,X#,2009
+ns:m.011x18wn,,
+ns:m.012c64,GRASS,
+ns:m.012gr,AMOS,1990
+ns:m.012ryn,Unlambda,
+ns:m.012s37,Rapira,
+ns:m.012whz,ABC,
+ns:m.0135sm__,Extempore,2011
+ns:m.0137z3,Microsoft BASIC,
+ns:m.0139bn,Csound,
+ns:m.014254,Turbo Basic,1987
+ns:m.0146x,ANSI C,
+ns:m.015glf,Clean,1987
+ns:m.015hl_,ACL2,
+ns:m.015tjh,Cascading Style Sheets,1996-12-17
+ns:m.0172dd,XLISP,
+ns:m.017pvt,Yorick,1996
+ns:m.017v2d,Visual FoxPro,
+ns:m.019p2,BASIC,1964
+ns:m.019syg,ECMAScript,1997
+ns:m.019wx,BCPL,1966
+ns:m.01_1zc,Component Pascal,1997
+ns:m.01b5hv,Common Lisp Object System,
+ns:m.01b5k,Brainfuck,1993
+ns:m.01b6d9,Macaulay computer algebra system,
+ns:m.01bdgp,Texvc,
+ns:m.01bxbv,SimPy,
+ns:m.01c2ld,COMAL,1973
+ns:m.01c9l2,ISPF,
+ns:m.01cf8d,Interpress,
+ns:m.01cqg1,MATH-MATIC,
+ns:m.01d2vj,Whitespace,
+ns:m.01dpgv,Visual Basic .NET,2001
+ns:m.01fgwp,x86 assembly language,
+ns:m.01fk4,B,1969
+ns:m.01fln6,Gambas,1999
+ns:m.01frhh,AMPLE,
+ns:m.01grf1,JOVIAL,1960
+ns:m.01h67x,Inform,2006
+ns:m.01hxzg,ISWIM,1966
+ns:m.01j9gq,Limbo,1995
+ns:m.01jfmj,AspectJ,
+ns:m.01jh8h,Malbolge,1998
+ns:m.01jm0,Blitz BASIC,2004
+ns:m.01jpx_,LotusScript,1993
+ns:m.01jt82,F#,2002
+ns:m.01jx_j,Bywater BASIC,
+ns:m.01k159,Modula-3,
+ns:m.01k8xl,Revolution,
+ns:m.01kbt7,D,1999
+ns:m.01kn9l,Clipper,1985
+ns:m.01ksbf,Communicating sequential processes,
+ns:m.01kv_h,Web Ontology Language,
+ns:m.01l121,Nosica,
+ns:m.01lhrk,IBM Informix-4GL,
+ns:m.01m1y8,Oz,1991
+ns:m.01n3qp,JScript,1996
+ns:m.01nkh5,HAL/S,
+ns:m.01nxv3,ABAP,1983
+ns:m.01p6ck,wxWidgets,
+ns:m.01p8vv,Slate programming language,2003
+ns:m.01q7b0,MetaPost,
+ns:m.01qplz,SPARK,
+ns:m.01qyn4,Parrot assembly language,
+ns:m.01r2dg,Nice,
+ns:m.01r6k0,Transact-SQL,
+ns:m.01s0p2,Curry,
+ns:m.01s432,Information Processing Language,1956
+ns:m.01s_63,XQuery,2007
+ns:m.01szng,PL/C,
+ns:m.01t5mj,mIRC scripting language,1995
+ns:m.01t6b,C,1972
+ns:m.01t8hq,Q,
+ns:m.01t9v4k,en/fr,
+ns:m.01tlw,Common Lisp,
+ns:m.01vtm2,Io,2002
+ns:m.01xc3x,Lexico,
+ns:m.01xrt9x,ISO,
+ns:m.01xrtb3,PIM4,
+ns:m.01xrtb_,Cedar,
+ns:m.01xrtbb,PIM3,
+ns:m.01xrtbk,PIM2,
+ns:m.01xrtj2,FORTRAN II,
+ns:m.01xrtj9,FORTRAN III,
+ns:m.01xrtjj,FORTRAN IV,
+ns:m.01xrtjr,FORTRAN 66,
+ns:m.01xrtjz,FORTRAN 77,
+ns:m.01xrtk5,FORTRAN 90,
+ns:m.01xrtkd,FORTRAN 95,
+ns:m.01xrtkm,Fortran 2003,
+ns:m.01xrtkv,Fortran 2008,
+ns:m.01xrtm_,PL/8,
+ns:m.01xrtmd,EPL,
+ns:m.01xrtr3,COBOL 2002,
+ns:m.01xrtrb,COBOL-85,
+ns:m.01xrtrk,COBOL-74,
+ns:m.01xrtrs,COBOL-68,
+ns:m.01xxttx,Smalltalk-80,
+ns:m.01xxtv3,Smalltalk-72,
+ns:m.01xxtvb,Smalltalk-71,
+ns:m.01xxtvq,Smalltalk-76,
+ns:m.01ydnt,Formula language,
+ns:m.01ytpb,SuperCollider,
+ns:m.01yv1f,ZZT-oop,
+ns:m.01z1nj,Embarcadero Delphi,
+ns:m.01z5j9,Programming Language for Business,
+ns:m.01zfs7,TRAC,
+ns:m.01zl2k,Interlisp,
+ns:m.01zpg,COBOL,1959
+ns:m.01zzd8,S-Lang,1992
+ns:m.0212jm,R,1993
+ns:m.0219cp,BuildProfessional,
+ns:m.021c1x,Pico,
+ns:m.021jh7,Scsh,
+ns:m.021plb,NumPy,
+ns:m.021v2,Common Language Infrastructure,
+ns:m.021ys86,SKED,
+ns:m.0220x4q,mjt,
+ns:m.02214px,Forth-79,
+ns:m.02214q3,Forth-83,
+ns:m.0222b,Coral 66,1964
+ns:m.022hz1,SPITBOL compiler,
+ns:m.022l10,Cg,
+ns:m.022l8q,Ratfor,
+ns:m.022l9v,BLISS,1970
+ns:m.022lb4,Jython,
+ns:m.022rw9,Job Control Language,
+ns:m.022rz1,CICS,
+ns:m.022s20,CLIST,
+ns:m.023k72,CLIPS,1985
+ns:m.023whs,Model-driven architecture,
+ns:m.02471,CLU,1974
+ns:m.024dft,Escapade,
+ns:m.024txs,Object Constraint Language,
+ns:m.024v8,Cyclone,
+ns:m.02544s,IBM RPG II,
+ns:m.0256nby,Interlisp,
+ns:m.025_bvc,CITRAN,
+ns:m.025s0nn,Arc,2008
+ns:m.025s4vp,Quantum programming,
+ns:m.025s6lq,Specification and Description Language,
+ns:m.025tfvw,CA-Telon,
+ns:m.025tvjt,Mouse,
+ns:m.025y7x2,Gibiane,
+ns:m.0260ysc,NIL,
+ns:m.0260znl,EusLisp Robot Programming Language,
+ns:m.02610w2,FoxPro,
+ns:m.0261ddc,Kermeta,
+ns:m.026221b,Concurrent Euclid,1980
+ns:m.0262dkz,Flapjax,
+ns:m.0262fps,S-1 Lisp,
+ns:m.0267bm6,Modula-2+,
+ns:m.0268yl,J#,2002
+ns:m.026_3pk,Flow Java,
+ns:m.026b1z7,Tefkat,
+ns:m.026c660,Ox programming language,
+ns:m.026d5hv,Logtalk,1998
+ns:m.026d9_y,Turing+,1987
+ns:m.026frqx,Strand,
+ns:m.026gpxr,Object Definition Language,
+ns:m.026k1bx,MARK IV,
+ns:m.026k4ty,MAPPER,
+ns:m.026kqj,Action Code Script,
+ns:m.026krmt,Business application language,
+ns:m.026pbz8,CFScript,
+ns:m.026xgmc,Keykit,
+ns:m.026yxgb,WinDev,
+ns:m.026zd29,Nord Programming Language,
+ns:m.0270f0,A++,2001
+ns:m.0272tx2,VistaSmalltalk,2006
+ns:m.0273jqp,PC-LISP,
+ns:m.0273yv,Educational programming language,
+ns:m.0274pcf,Genshi,
+ns:m.0275kj0,Spin,
+ns:m.0277_d,ARS++,
+ns:m.0277n7b,Pawn,1998
+ns:m.027_5x7,SCAR,
+ns:m.027bt7p,ECL programming language,
+ns:m.027d4dd,Eltron Programming Language,
+ns:m.027dwmw,Structured Audio Orchestra Language,
+ns:m.027fhy7,Kite,2006
+ns:m.027hvyd,Inform version history,
+ns:m.027jr45,SA-C,
+ns:m.027qlt7,WAML,
+ns:m.027rgms,A Graphics Language,
+ns:m.027sj6,IBM i Control Language,
+ns:m.027tq7k,Gofer,
+ns:m.027xjf4,SenseTalk,
+ns:m.027y3_j,Blueprint,2007
+ns:m.0280lrj,Distributed Application Specification Language,
+ns:m.0280z9m,M2M,
+ns:m.02813px,Assertion definition language,
+ns:m.028167f,Scratch,2006
+ns:m.0282msx,NetRexx,1996
+ns:m.0284mk,Z programming language,
+ns:m.0288d1q,CMS EXEC,
+ns:m.0288d5v,EXEC 2,
+ns:m.028b0tb,ARC Macro Language,
+ns:m.028bwlw,Quark Framework,2004
+ns:m.028by64,CyberQuery,
+ns:m.028d2c,BlooP and FlooP,
+ns:m.028d3s,colorForth,
+ns:m.028d90,Chef,
+ns:m.028dzm,FALSE,
+ns:m.028p7g,S2,1999
+ns:m.029b59,Visual DataFlex,
+ns:m.029rvn,Oberon-2,1991
+ns:m.02_6bj,bc,
+ns:m.02_94,Fortran,1957-04
+ns:m.02_cw3,TI BASIC,1981
+ns:m.02_nh6,Frink,2001
+ns:m.02_qnn,ASP.NET,
+ns:m.02b6np,Data definition language,
+ns:m.02bv6w,Datapoint's Advanced Systems Language,
+ns:m.02bwsf,CHAIN,
+ns:m.02cv24,QBasic,1991
+ns:m.02dxbh,Subset-equational language,
+ns:m.02f1mc,OPS5,
+ns:m.02f70,Dylan,1992
+ns:m.02f85v,Shorthand Language,
+ns:m.02f_d6,JSyn,
+ns:m.02f_gq,Hierarchical Music Specification Language,
+ns:m.02f_lf,Synthesis Toolkit,
+ns:m.02f_mx,PeRColate,
+ns:m.02fd5t,ChucK,2003
+ns:m.02fj51,Real-time Cmix,
+ns:m.02fj94,MUSIC-N,
+ns:m.02fjxl,MINC,
+ns:m.02fjyr,DEC Text Processing Utility,
+ns:m.02flr5,Pure Data,1996
+ns:m.02fpnx,SAIL,
+ns:m.02g746,S/SL programming language,
+ns:m.02g7b5,SR,
+ns:m.02h0jd,Lingo,
+ns:m.02h31b,Nemerle,2003
+ns:m.02h3zxb,C*,
+ns:m.02j2p7,Joule,1996
+ns:m.02jn_m,PL-11,
+ns:m.02jnml,PL/0,
+ns:m.02jnyh,Draco,
+ns:m.02js86,Groovy,2003
+ns:m.02jt1_,Clarion,
+ns:m.02jxfs,Pizza,1997
+ns:m.02jy2q,Generic Java,
+ns:m.02k1jt,CorbaScript,
+ns:m.02k681,IDL,1977
+ns:m.02k6kx,RPL,1984
+ns:m.02kcd1,Template Haskell,
+ns:m.02kmb8,Dartmouth BASIC,1964
+ns:m.02ky6z,ActionScript,1998
+ns:m.02l3jl,Prograph,1983
+ns:m.02ldnl,Lasso,
+ns:m.02lk8v,KM,
+ns:m.02lvpc,Cecil,
+ns:m.02m590,SabreTalk,
+ns:m.02m_jv,MUF,
+ns:m.02m_kj,Message Parsing Interpreter,
+ns:m.02mb5k,DIGITAL Command Language,
+ns:m.02mm3,Erlang,1986
+ns:m.02mml,Euphoria,1993
+ns:m.02ncj8,PL/M,
+ns:m.02nj7n,Superx++,
+ns:m.02npry,Processing,2001
+ns:m.02nrpm3,Starlogo TNG,
+ns:m.02ntyn_,Syp Script,
+ns:m.02nz9y,Mocklisp,
+ns:m.02p426,XOTcl,2000
+ns:m.02p44m9,Obol,
+ns:m.02p657k,Quartz Composer,
+ns:m.02p6w,Eiffel,1986
+ns:m.02p97,JavaScript,1995
+ns:m.02p_hks,Omega,
+ns:m.02pgyy3,BCompile,
+ns:m.02pj9ds,MillScript,
+ns:m.02pl6q6,Emios,
+ns:m.02pll4f,PROGOL,
+ns:m.02plr7q,QtScript,
+ns:m.02pm0j2,The Green Object Oriented Language,
+ns:m.02pm8p1,Roadsend PHP,
+ns:m.02pmq0l,Concurrent Pascal,
+ns:m.02pngd1,ChinesePython,
+ns:m.02pnlwd,Arbol,
+ns:m.02pp7t7,OTcl,
+ns:m.02ppg6k,C++/Tcl,
+ns:m.02pqjzd,Promela,
+ns:m.02prj6h,Qi,
+ns:m.02pwtvp,DRAKON,
+ns:m.02q47bp,GOO,2003
+ns:m.02q4kzb,RPython,
+ns:m.02q9x5,Stateflow,
+ns:m.02q_q1v,Tom,
+ns:m.02q_q2j,TOM,
+ns:m.02qb4l,POP-11,
+ns:m.02qdfmg,Cat,2006
+ns:m.02qf456,AWL,
+ns:m.02qfk_c,WebQL,
+ns:m.02qjcnn,Clascal,
+ns:m.02qlwn8,FOCAL-69,
+ns:m.02qnnlp,Hot Soup Processor,1996
+ns:m.02qpsfl,Lite-C,
+ns:m.02qq5qd,TSP,
+ns:m.02qqkg9,Armed Bear Common Lisp,
+ns:m.02qvpqz,Interactive ALGOL 68,
+ns:m.02qwj88,MiniD,2006
+ns:m.02r0l4g,JavaFX Script,
+ns:m.02r2b3b,SiMPLE,
+ns:m.02r51yv,Aikido Programming Language,2003
+ns:m.02r5chy,Beginners Programming Language,
+ns:m.02r_klx,Focal,
+ns:m.02rgks0,Adenine,
+ns:m.02rh5fj,.QL,2007
+ns:m.02rm0t8,Micro programming language,
+ns:m.02rm7n_,Timber,
+ns:m.02rn6ww,SQL/PSM,1996
+ns:m.02rn8h0,Generalized Automation Language,
+ns:m.02rqcwj,LSE,
+ns:m.02rr4tr,FOURGEN,
+ns:m.02rr7sb,FourGen CASE Tools,
+ns:m.02rs85b,Kernel,
+ns:m.02rt7f,GPSS,
+ns:m.02rwt5b,Tiny programming language,
+ns:m.02rxfm7,XMTC,
+ns:m.02rz_zy,MST Workshop,
+ns:m.02s2nd,PROIV,
+ns:m.02s7zd,Coq,1984
+ns:m.02sc8px,Car,
+ns:m.02sqw0,MDL,
+ns:m.02srct,IITRAN,
+ns:m.02srjv,Polyphonic C#,2002
+ns:m.02sxbp,Dream Maker,
+ns:m.02tdx5,Rlab,
+ns:m.02tfsj,NetLogo,1999
+ns:m.02tgs,Emacs Lisp,
+ns:m.02tkhm,Kiev programming language,
+ns:m.02tzjq,DIBOL,1970
+ns:m.02v8bwg,LOLPython,
+ns:m.02vhb8,Obliq,
+ns:m.02vhx2,FOIL,
+ns:m.02vmlcq,V,2007
+ns:m.02vmqtb,AmbientTalk,2006
+ns:m.02vnxwh,LIS,
+ns:m.02vsdx3,RDF Inference Language,
+ns:m.02vw5f,XSL Formatting Objects,
+ns:m.02vwy3z,Syntax Definition Formalism,
+ns:m.02vy1px,Phoenix,
+ns:m.02vz8dy,OpenT,
+ns:m.02vzmyh,Kawa,
+ns:m.02w6yty,Parser,1997
+ns:m.02w_5j4,Urbi,2003
+ns:m.02wtqfr,Scheme48,
+ns:m.02wyjwt,Lisp renaissance,
+ns:m.02wz500,Sawzall,
+ns:m.02wz_qj,Vala,2006
+ns:m.02x01bv,hoc,
+ns:m.02x8svn,LOLCODE,2007
+ns:m.02x9y83,CL,
+ns:m.02xjk1,EASY,
+ns:m.02xkxpr,Mantra,
+ns:m.02y1lf,m4,1977
+ns:m.02y475,Extensible Application Markup Language,
+ns:m.02yjg_,Object Pascal,1986
+ns:m.02yrkx,IBM RPG,1959
+ns:m.02z2qyc,Lily,
+ns:m.02z35v1,STOIC,
+ns:m.02z3d4k,XProc,
+ns:m.02z5spd,IronLisp,
+ns:m.02z6g2t,Model-driven integration,
+ns:m.02z81,Forth,1970
+ns:m.02z825p,Protel,
+ns:m.02zwml,Ratfiv,
+ns:m.030b4s,TI-BASIC,
+ns:m.030dg9,Focal,
+ns:m.03189t,Shakespeare,
+ns:m.031h11,Lispkit Lisp,
+ns:m.032qpc,Cola,
+ns:m.032qpq,Jako,
+ns:m.0336_z,Hartmann pipeline,1986
+ns:m.0338k6,ALGOL 68,
+ns:m.03396h,Larch family,
+ns:m.033jmv,Joy,2001
+ns:m.033zxh,POPS,
+ns:m.0340d7,Game Maker Language,
+ns:m.034zpn,CMusic,
+ns:m.0376r,Godiva,
+ns:m.03790v,Windows PowerShell,2006
+ns:m.037k4q,DataFlex,
+ns:m.037s0n,Pantalk,
+ns:m.037xjq,StarLogo,
+ns:m.0398fx,Property Specification Language,
+ns:m.039lgr,CHILL,1980
+ns:m.03_6c8,Dialog Manager programming language,
+ns:m.03_h_w,G-code,
+ns:m.03_lm8,Qu,
+ns:m.03b2t9,wxBasic,
+ns:m.03b6qy,ICI,
+ns:m.03bn_2,JRT,
+ns:m.03bqkh,Haskore,
+ns:m.03bscv,TTCN,
+ns:m.03bxpvh,L programming language,
+ns:m.03bxz4p,S3,
+ns:m.03c0cwt,C/AL,
+ns:m.03c2d7t,Orc,2004
+ns:m.03c2jcv,Hindawi Programming System,
+ns:m.03c2z57,SISC,
+ns:m.03c3n3t,Snostorm,
+ns:m.03c3pjf,LISP 2,
+ns:m.03c4bw5,FRACTRAN,
+ns:m.03c4g3_,Bidule,
+ns:m.03c4w1k,FastPak for Java,
+ns:m.03c9pzr,Judoscript,2001-11
+ns:m.03cbl66,Baby modula-3,
+ns:m.03cjm6,XBL,
+ns:m.03ck7xt,Script.NET,
+ns:m.03ckgxf,Tersus,
+ns:m.03ckhvp,QUILL,
+ns:m.03cky9b,Dript,
+ns:m.03clk94,Cobra,2006
+ns:m.03cmd8m,Dialect,
+ns:m.03cr66s,TeXCAD,
+ns:m.03crjgp,CGOL,1973
+ns:m.03d00x7,EC,
+ns:m.03d1wx8,Apply,
+ns:m.03d4cmc,MetaL,2001
+ns:m.03d4pch,CLforJava,
+ns:m.03f__t,JScript .NET,
+ns:m.03fbmf,SP/k,1974
+ns:m.03fbrg,Euclid,
+ns:m.03fc6,GW-BASIC,1983
+ns:m.03ff_9,CPL,1963
+ns:m.03fjx0,Open Programming Language,1984
+ns:m.03frgn,Visual Objects,
+ns:m.03g20,HTML,
+ns:m.03g637,DarkBASIC,
+ns:m.03gbmp,Linden Scripting Language,
+ns:m.03ghb3,XyMTeX,
+ns:m.03gm66v,HyperTalk,
+ns:m.03gm6gt,MetaCard,
+ns:m.03gm6hk,OracleCard,
+ns:m.03gmpl,XML schema,
+ns:m.03grjyx,Lego Logo,
+ns:m.03gvzs3,CLP(R),
+ns:m.03gxv97,Cool,1996
+ns:m.03gxzs,MIVA Script,1996
+ns:m.03h1x74,Refal,
+ns:m.03h2dj4,BANCStar programming language,
+ns:m.03h5rg,o:XML,
+ns:m.03h9tz,NWScript,2002-06-18
+ns:m.03hhr4m,Neko,2005
+ns:m.03hjb_9,Lazy ML,
+ns:m.03hjc43,Escher,
+ns:m.03hjc5h,Orwell,1984
+ns:m.03hjc76,Id,
+ns:m.03j02v,IMP programming language,
+ns:m.03j_q,Haskell,1990
+ns:m.03jdp,HyperCard,
+ns:m.03jzh1,FOCUS,
+ns:m.03ks39,T,
+ns:m.03m5s2,ZPL,
+ns:m.03m66l,A+,1988
+ns:m.03m68b,K,1993
+ns:m.03m7hp,Factor,2003
+ns:m.03m7kh,FISh programming language,
+ns:m.03m_kt,Thue,
+ns:m.03mc99n,Tensilica Instruction Extension,
+ns:m.03mk2z,MXML,
+ns:m.03n0b_,FP,1977
+ns:m.03n27r,F-Script,
+ns:m.03n98y,Blue,
+ns:m.03n9f5,XPL,
+ns:m.03n9v6,Unicon,
+ns:m.03nk21,LPC,
+ns:m.03nnsbc,Paradiseo,
+ns:m.03nt42b,PL360,
+ns:m.03ny70,Euler,1965
+ns:m.03nyb7,Lithe,
+ns:m.03nyxs,Perl Data Language,
+ns:m.03p5b2,LEAP,
+ns:m.03pn6s,WCL programming language,
+ns:m.03ppzh,SETL,1969
+ns:m.03pv49,ConTeXt,
+ns:m.03pwv0,ProSet,
+ns:m.03pxm2,S,1976
+ns:m.03py_v,Snowball,
+ns:m.03pyfq,NESL,1993
+ns:m.03pzqn,SETL2,
+ns:m.03qt76,REFAL programming language,
+ns:m.03qtjn,MPD,
+ns:m.03qtl5,Water programming language,
+ns:m.03qtqr,TYRO,
+ns:m.03qtzr,Zeno,
+ns:m.03qv0h,ACC,
+ns:m.03r1wd,Claire,1994
+ns:m.03r370,ROOP,
+ns:m.03r43d,MLisp,
+ns:m.03r8mt,Hope,
+ns:m.03r9by,Agora,
+ns:m.03r9fn,Afnix programming language,
+ns:m.03r9j8,Algebraic Logic Functional programming language,
+ns:m.03r9yp,Alma-0,2004
+ns:m.03rb5n,APLX,
+ns:m.03rbwc,FP84,
+ns:m.03rc5q,FFP programming language,
+ns:m.03rky7,Gödel,1992
+ns:m.03rz6d,MultiLisp,
+ns:m.03rz_p,M2001,
+ns:m.03s53r,ALGOL 58,1958
+ns:m.03s8dh,Cilk,1994
+ns:m.03s_02,Edinburgh IMP,
+ns:m.03sbx4,ALGOL X,
+ns:m.03sbxv,ALGOL N,
+ns:m.03sjgv,Aldor,
+ns:m.03sk94,Abel programming language,
+ns:m.03skrk,Elliott ALGOL,
+ns:m.03sktd,NPL,
+ns:m.03skwk,ALGOL Y,
+ns:m.03sl11,NELIAC,
+ns:m.03t6q1,Bon,
+ns:m.03t8dm,Extensible ML,
+ns:m.03t8dz,O'Haskell,
+ns:m.03t8kk,Extended ML,
+ns:m.03tr0,Icon,1977
+ns:m.03tsq7,ColdFusion Markup Language,1995
+ns:m.03v8l9,Datalog,1978
+ns:m.03vbxj,Not Quite C,
+ns:m.03vk1n,Fuzzy Control Language,
+ns:m.03wfgb,POP-2,
+ns:m.03wxr,INTERCAL,1972
+ns:m.03x4dw,lush,1987
+ns:m.03x8qv,TELCOMP,
+ns:m.03y8knn,VLISP,
+ns:m.03yb8hb,Clojure,2007
+ns:m.03z51v,COMIT,1957
+ns:m.0403j0,IBM PL/S,
+ns:m.04043kd,Pnuts,1997
+ns:m.04050bb,Fuxi Programming Language,
+ns:m.0407ljj,Not eXactly C,
+ns:m.04093_t,JAWS Scripting Language,
+ns:m.040_6qz,Heron,
+ns:m.040lj9,SystemC,
+ns:m.040ysg,Cel,1998
+ns:m.040zrk,Cω,2003
+ns:m.0412d23,Visual Assembler,
+ns:m.0416cz,Variable Data Intelligent Postscript Printware,
+ns:m.0419cp,Felix,
+ns:m.0420zs3,Smalltalk YX,
+ns:m.0428xx,Unified Parallel C,
+ns:m.042tk1,Oaklisp,1986
+ns:m.042tm7,OBJ,
+ns:m.042tmy,OBJ2,
+ns:m.042tn8,OBJ3,
+ns:m.042ttz,Object Lisp,
+ns:m.042tvq,ObjectLOGO,
+ns:m.042tyz,Object Oberon,
+ns:m.042v27,Object-Oriented Turing,1991
+ns:m.042v5f,ObjVlisp,
+ns:m.042v6x,Le Lisp,
+ns:m.042v7y,Oblog,
+ns:m.042v9b,OCAL,
+ns:m.042vdv,QUIKTRAN,
+ns:m.042vf5,QUIKSCRIPT,
+ns:m.042vfh,SIMSCRIPT,
+ns:m.042vgj,C*,1987
+ns:m.0438mc,RTML,
+ns:m.043fdy,OpenEdge Advanced Business Language,
+ns:m.043jn7w,Nu,2007
+ns:m.043mmnj,Einstein,
+ns:m.044cfc,High Performance Fortran,
+ns:m.045bb9c,Design By Numbers,
+ns:m.045m834,APL\\360,
+ns:m.045m83b,I-APL,
+ns:m.045m83k,APL*PLUS,
+ns:m.045m840,APL2,
+ns:m.046n54,Piet,
+ns:m.047qn2,CHIP-8,
+ns:m.047r16w,PCASTL,2008
+ns:m.047sfsb,UCBLogo,1992
+ns:m.048z5w,GameMonkey Script,
+ns:m.0490j1,LiveCode,
+ns:m.0497m,Kvikkalkul,
+ns:m.049b0_,WATFIV,
+ns:m.04_6bg9,Alpha,
+ns:m.04b9q6,Perl 6,2000
+ns:m.04bd1c,Boo,2003
+ns:m.04bkds,ALGO,
+ns:m.04bq33,Hugo,
+ns:m.04c_c,KL0,
+ns:m.04cvblj,LYaPAS,
+ns:m.04cz5,KISS,
+ns:m.04d12,KL-ONE,
+ns:m.04d5t6,FOCAL,
+ns:m.04d88,Kent Recursive Calculator,1981
+ns:m.04d8z,KRL,1976
+ns:m.04dxh8,IronPython,
+ns:m.04dy1h,ELAN,1974
+ns:m.04f07kc,XPL0,
+ns:m.04f41y,CMS-2,1968
+ns:m.04f62sk,Net.Data,
+ns:m.04g1zgl,JFugue,
+ns:m.04g2qjv,Q,2003
+ns:m.04gnjjy,chomski,2007
+ns:m.04grg7w,Python for S60,2006
+ns:m.04gtd0w,SCAR programming language,2003
+ns:m.04h4mm,EGL,2005
+ns:m.04h5hy,IBM HAScript,
+ns:m.04j9q4g,SAS language,
+ns:m.04jd4mk,PGF/TikZ,
+ns:m.04jfk1r,Fantom,2007
+ns:m.04jmsgx,MVEL,
+ns:m.04kn35,SKI combinator calculus,
+ns:m.04kyw,Lisp,1958
+ns:m.04kzq5,Pipeline,
+ns:m.04lclb0,Turtle Talk,
+ns:m.04ldrth,Objective-J,2008
+ns:m.04lgm_f,NS Basic,
+ns:m.04lj88t,PLEXIL,2005
+ns:m.04m75m,Maude system,
+ns:m.04m_ztl,DECLAN Pro,2008
+ns:m.04mg4,Lambda calculus,
+ns:m.04n7j8q,M,2008
+ns:m.04n8q,Logo,1967
+ns:m.04p4mh,Action!,
+ns:m.04ppx,Lynx,
+ns:m.04pxck,MLton,
+ns:m.04pzdj,F,
+ns:m.04q2br,Esterel,
+ns:m.04q84w1,ATS,
+ns:m.04qxmx,SASL,1972
+ns:m.04shbz,Model 204,
+ns:m.04t28l,PFXplus,
+ns:m.04tg37,Parakeet,
+ns:m.04w43s,Object REXX,
+ns:m.04wyyl,Charity,1992
+ns:m.04xdsc,KiXtart,
+ns:m.04xw5j,E,1997
+ns:m.04y7x16,Scieneer Common Lisp,
+ns:m.04ybtsc,Ioke,2008-11-06
+ns:m.04ycw5z,Reia,2008
+ns:m.04ycygx,PointDragon,
+ns:m.04yf9ks,Kaya,2004
+ns:m.04ygytb,Microsoft Small Basic,2008-10-01
+ns:m.04zk4yc,eZ Template language,
+ns:m.04zs6,MUMPS,1966
+ns:m.04zsm,Mercury,1995-04-08
+ns:m.04zwp_z,FACT,1959
+ns:m.04zzxjs,Pure,
+ns:m.0508gj,C--,1997
+ns:m.050f_,Mesa,
+ns:m.051624,Karel,1981
+ns:m.051bn,Microassembler,
+ns:m.051kvfb,Lilith programming language,
+ns:m.051rmx5,Pop,
+ns:m.051rpm_,Digital Standard MUMPS,
+ns:m.0521mgd,Scriptol,
+ns:m.0521z,MOO,1990
+ns:m.052vqr6,Parlog,
+ns:m.053_x,MATLAB,
+ns:m.053dv,Mary,
+ns:m.054k6n_,Sass,2007
+ns:m.0555r6,Lucid,1976
+ns:m.055mc,ML,1973
+ns:m.057fd,Modula,
+ns:m.05967y,PL/pgSQL,
+ns:m.059xl9,DG scripts,
+ns:m.05_y29,CAL,
+ns:m.05b4196,Boomerang,2008
+ns:m.05b4hst,Active Oberon,
+ns:m.05b93m,TACL,
+ns:m.05b9cr,Transaction Application Language,
+ns:m.05bkhn,FILECOMP,
+ns:m.05bq496,Raven,
+ns:m.05bq49g,Enchilada,
+ns:m.05bq49v,Staapl,
+ns:m.05bw2b,BeanShell,1999
+ns:m.05bzv69,Ambi,2009
+ns:m.05c336c,Bertrand,
+ns:m.05c3tx3,Lightweight Java,
+ns:m.05c414v,Cryptol,
+ns:m.05c586,STRINGCOMP,
+ns:m.05c5dj,Strongtalk,
+ns:m.05cntt,JSON,2002
+ns:m.05dts,Nial,1981
+ns:m.05dwhk,Modelling of General Systems,
+ns:m.05f_x0,LOOM,
+ns:m.05fxv0,IPTSCRAE,
+ns:m.05gb7t,AMPL,1985
+ns:m.05gv1_,xHarbour,
+ns:m.05h5g7,Autocode,
+ns:m.05hl_8,Dartmouth ALGOL 30,
+ns:m.05hn2y,SubL,
+ns:m.05hp2y,Span,
+ns:m.05hwnf,Moby,
+ns:m.05jj59,Converge,
+ns:m.05kl94h,Befunge97,
+ns:m.05kl94q,Befunge93,
+ns:m.05l1s8,PBASIC,
+ns:m.05mrv,Oberon,1986
+ns:m.05mxmzj,Falcon,2003
+ns:m.05nn80,Maya Embedded Language,
+ns:m.05nrws,Moto programming language,
+ns:m.05p0d,occam,1983
+ns:m.05p4tb2,GOAL agent programming language,
+ns:m.05p8z6f,GScript,
+ns:m.05pxcv,CobolScript,
+ns:m.05q31,Objective-C,1986
+ns:m.05q4vfd,Smith,
+ns:m.05q5900,Simgua,
+ns:m.05qxnz,TACPOL,
+ns:m.05rlf_,Microsoft Pascal,
+ns:m.05s50p,PWB shell,
+ns:m.05sfxb,Visual Prolog,
+ns:m.05t0ys2,JEAN,
+ns:m.05tthtg,Corba IDL,
+ns:m.05vfz1,DAML+OIL,
+ns:m.05vpz,Prolog,1972
+ns:m.05wgtq,Use,
+ns:m.05xjv,PL/I,1964
+ns:m.05xx0y,IEC 61131-3,
+ns:m.05yl8k,SMALL,
+ns:m.05z1_,Python,1991
+ns:m.05z2qq4,UNICON,2002
+ns:m.05z2qqf,ICON,
+ns:m.05z3dws,tiscript,2007
+ns:m.05zp9j,Fortress,
+ns:m.05zrn,Perl,1987
+ns:m.05ztn31,Axum,2009
+ns:m.05zx8sy,AgentSpeak,1996
+ns:m.06016,PostScript,1982
+ns:m.0609p,PL/SQL,
+ns:m.060cw1,SIMCOS,
+ns:m.060kv,PHP,1995
+ns:m.061mwg,ARexx,
+ns:m.061wdk,Autocoder,
+ns:m.062bml,Loco,
+ns:m.063_0dp,QASL,
+ns:m.063_3xr,Babbage,
+ns:m.063cr,Page description language,
+ns:m.063h0s,Harbour,1999
+ns:m.063yy4c,CLACL,2000
+ns:m.064011l,Whizbase,
+ns:m.0641x3,Standard ML of New Jersey,
+ns:m.06426by,Tiscript,
+ns:m.0642ddz,Universal Systems Language,
+ns:m.065mn7,Redcode,
+ns:m.0671rd,Atari ST BASIC,
+ns:m.0672c1,X10,2004
+ns:m.0674cj,Epigram,2004
+ns:m.06782b,Java bytecode,
+ns:m.067916,Alef,1992
+ns:m.067dmx,Opal,
+ns:m.068fcp,Dependent ML,
+ns:m.068yg4,C++/CLI,
+ns:m.0694c5,PL/P,
+ns:m.0697xz,Visual J++,
+ns:m.069g7,QuakeC,1996
+ns:m.069gh5,newLISP,1991
+ns:m.069sx3,Ease,1990
+ns:m.06_843,SQL-92,
+ns:m.06_b3c,Leda,
+ns:m.06_s5g,Query by Example,
+ns:m.06bf5y,Chinese BASIC,
+ns:m.06bm1_,Mortran,
+ns:m.06bt54,Lava,
+ns:m.06ds0_,Stackless Python,
+ns:m.06ff5,Ruby,1995
+ns:m.06g3m,Rexx,1979
+ns:m.06hd03,thinBasic,
+ns:m.06hrzx,Cleverpath AION Business Rules Expert,
+ns:m.06hsy8,Suneido programming language,
+ns:m.06j4lb,Twelf,
+ns:m.06krns,occam-π,
+ns:m.06kw5,Rebol,1997
+ns:m.06l17z,Lazarus,
+ns:m.06mmmy,Ferite,2000
+ns:m.06mtb6,ZetaLisp,
+ns:m.06n6zl,*Lisp,1986
+ns:m.06qcc5,Camlp4,
+ns:m.06rm6,sed,
+ns:m.06svrt,SAC programming language,1994
+ns:m.06vchh,Subtext,
+ns:m.06vd5x,CODE,
+ns:m.06w85k,Lustre,
+ns:m.06w8g1,Averest,
+ns:m.06xcy4,Join Java,
+ns:m.06xwl0,SMX,
+ns:m.06xydr,MicroScript programming language,
+ns:m.06xz99,SyncCharts,
+ns:m.06yljz,Stagecast Creator,
+ns:m.06yp6q,Caché ObjectScript,1997
+ns:m.06yylr,Versus programming language,
+ns:m.06z3b2,Yoix,2000
+ns:m.06zgrq,Apache Rivet,
+ns:m.06zql6g,Basic4ppc,2005
+ns:m.06zrb,Scheme,1975
+ns:m.0705zy,ProvideX,1992
+ns:m.070d2,Smalltalk,
+ns:m.070m83,AutoIt,
+ns:m.070qh1,Agilent VEE,
+ns:m.070s08,Compact Application Solution Language,
+ns:m.071hh5,Sleep programming language,2002
+ns:m.0729m2,Bistro,1999
+ns:m.0738wt,Linoleum,
+ns:m.073c35,Mozart Programming System,
+ns:m.073yv,Sather,1990
+ns:m.074fpl,Indus programming language,
+ns:m.075465,Bigwig,
+ns:m.0755kv,Winbatch,
+ns:m.0759wq,SALSA,
+ns:m.075st,SQL,1974
+ns:m.07657k,C#,2000
+ns:m.076kx1,Caml,1985
+ns:m.076t4y,XACML,
+ns:m.079l6,Simula,1967
+ns:m.079lq,SNOBOL,1962
+ns:m.079ydj,Embedded C++,
+ns:m.07_n5r,Laning and Zierler system,
+ns:m.07b5tc,JAL,
+ns:m.07dh_,TeX,
+ns:m.07fbbc,Algae programming language,
+ns:m.07fw2,Tcl,1988
+ns:m.07gd73,Objective Modula-2,
+ns:m.07gjz6,Tcl/Java,
+ns:m.07k808l,Hermes,
+ns:m.07kyjn,MacroML,
+ns:m.07lqnv,PL/Perl,
+ns:m.07lwvb,SystemVerilog,
+ns:m.07mrdw,Prova,
+ns:m.07n77,Turing,1982
+ns:m.07pjtq,StepTalk,
+ns:m.07qb7,True BASIC,
+ns:m.07qsk2,ARLOGO,
+ns:m.07r0pw,PEARL,
+ns:m.07s3k3v,Office Open XML,
+ns:m.07sbkfb,Java,1995
+ns:m.07twnp,Job entry control language,
+ns:m.07vj7,UCSD Pascal,
+ns:m.07wm9v,FORMAC,
+ns:m.07x3g,Unified Modeling Language,
+ns:m.080l1,VBScript,1996
+ns:m.080ycj,Croma,2005
+ns:m.081j1j,PS-Algol,
+ns:m.082dky,Limnor,
+ns:m.082tzd,Alphard,
+ns:m.0839cc,COMSOL Script,
+ns:m.083g1v,Zonnon,
+ns:m.084pb2,Squirrel,2003
+ns:m.085r0y,Cesil,
+ns:m.0872gs,XL,2000
+ns:m.08745,XML,
+ns:m.0876r1,FL,1989
+ns:m.0879f,XHTML,
+ns:m.0879y,XSL,
+ns:m.087l8,XSLT,1998
+ns:m.089pf,Z notation,
+ns:m.08_phg,Pascal/MT+,
+ns:m.08_qbf,Prospero Pascal,
+ns:m.08_qp2,GNU Pascal,
+ns:m.08bnzs,Uniface,
+ns:m.08c2r2,Fril,1980
+ns:m.08c73m,Ana,
+ns:m.08czsn,XBase++,
+ns:m.08f3sg,Language Integrated Query,
+ns:m.08fqzc,Ch,
+ns:m.08gsgd,rex,
+ns:m.08hhn7,Petriscript,
+ns:m.08j11c,Magik,
+ns:m.08jcqx,"\""A♯ (Axiom)\""",
+ns:m.08jcr7,A#,
+ns:m.08k27x,NGL,
+ns:m.08mnz,20-GATE,
+ns:m.08mp9,2.PAK,
+ns:m.08n_r2,Phrogram,
+ns:m.08pndh,Sing#,2005
+ns:m.08pv_0,D,
+ns:m.08pytf,Spec#,2004
+ns:m.08qk5_8,Paris,
+ns:m.08rz8,473L Query,
+ns:m.08rzm,51-FORTH,
+ns:m.08td3z,Collaborative human interpreter,
+ns:m.08vxp3,Lagoona,
+ns:m.08xs3h,Macaulay2,
+ns:m.08yy56,ColdC,1993
+ns:m.08zj8j,Snit,
+ns:m.090b_z,Fjölnir,
+ns:m.090jt4,Programming Computable Functions,
+ns:m.090w4r,Brown University Interactive Language,
+ns:m.091hdj,Scala,2003
+ns:m.092_gr,Spice programming language,
+ns:m.0932gx,TUTOR,1969
+ns:m.0944vn,IpTables Rope,
+ns:m.094j4d,Onyx,
+ns:m.096j51,Little Smalltalk,
+ns:m.0974fb,Racket,1994
+ns:m.097l96,MIIS,
+ns:m.098bg2,OmniMark,
+ns:m.099c1,Varuq,
+ns:m.09bhx,Squeak,1996
+ns:m.09bss7,Grammar-oriented programming,
+ns:m.09c3bc,Tea,
+ns:m.09d68r,IMTEK Mathematica Supplement,
+ns:m.09f4b_,Asymptote,
+ns:m.09f7qd,Dexterity programming language,
+ns:m.09fj2k,Nyquist,
+ns:m.09gbxjr,Go,2009-11-10
+ns:m.09gdqsb,Newsqueak,
+ns:m.09gjwxg,SuperPascal,1993
+ns:m.09hbnw,FLACC,
+ns:m.09hf4d,BBN LISP,
+ns:m.09jsd,Turbo Pascal,
+ns:m.09k75js,Genie,2008
+ns:m.09kns0,VisSim,1989
+ns:m.09l7xc,AlphaBasic,
+ns:m.09n88y,ApeScript,
+ns:m.09q0wb,Advanced Continuous Simulation Language,
+ns:m.09sj9r,BitC,
+ns:m.09tp36,APT,
+ns:m.09trtv,Abundance,1981
+ns:m.09wm62,AIMMS,1993
+ns:m.09y8k4,Kid,
+ns:m.0_1m8mq,ELI,2011
+ns:m.0_82v0s,LFE,2008
+ns:m.0_ftxsq,WLanguage,
+ns:m.0_l9rcz,LiveScript,2011
+ns:m.0_lcrx4,Kotlin,
+ns:m.0_lmkkm,Pastel,1982
+ns:m.0_r__7z,Enchanting,
+ns:m.0_s19g9,Jaql,
+ns:m.0b04x,Parser,
+ns:m.0b0tf_,CHIP,
+ns:m.0b1wj0,JavaScript syntax,
+ns:m.0b2f3h,L# .NET,
+ns:m.0b4hsb,JoCaml,
+ns:m.0b4rvq,SAM76,
+ns:m.0b79zw,Caml Light,
+ns:m.0b_pm5,Micronetics Standard MUMPS,
+ns:m.0bbtm17,ALGOL 60,1960
+ns:m.0bc97w,FCode,
+ns:m.0bcr5c,MIMIC,
+ns:m.0bfn7f,Janus,1990
+ns:m.0bfq5w,Etoys,1996
+ns:m.0bfvjd,Moscow ML,
+ns:m.0bgj_v,ToonTalk,1995
+ns:m.0bgnn8,Nickle,2001
+ns:m.0bgsgk,Apple Media Tool,
+ns:m.0bh1q5,Identity transform,
+ns:m.0bkkb,Incr Tcl,
+ns:m.0bm90n,EuLisp,
+ns:m.0bmhrl1,Dworkin's Game Driver,
+ns:m.0bp8q,Curl,1998
+ns:m.0bpd02,Simkin,
+ns:m.0bq66qs,Microsoft .NET,
+ns:m.0brz3l,Portable Standard Lisp,
+ns:m.0bs2s4,Alice ML,2000
+ns:m.0bsb33,Oxygene,
+ns:m.0bsdfv,Eager Haskell,
+ns:m.0bss63,Karel++,
+ns:m.0bt9xm,Ubercode,
+ns:m.0bv81n,Fabrik,
+ns:m.0bv8f9,ThingLab,
+ns:m.0bvh22,COMTRAN,1957
+ns:m.0bw_9z,IBM Basic assembly language and successors,
+ns:m.0bwl4s,PowerHouse,
+ns:m.0bwsp,VHDL,
+ns:m.0bxmp4,OpenMusic,
+ns:m.0bxzs64,Joyce,1987
+ns:m.0by78w,Analytica,
+ns:m.0by8xd,Mudlle,1998
+ns:m.0c00_c,Bigloo,
+ns:m.0c05w7,Kaleidoscope,
+ns:m.0c0tby,Geometric Description Language,
+ns:m.0c1_l,Metafont,
+ns:m.0c1j66,Lapis,
+ns:m.0c1q5k,ZOPL,
+ns:m.0c1r9r,Agda,2007
+ns:m.0c320f,SLIP,
+ns:m.0c3wj7j,Argus,1982
+ns:m.0c5d9p,O-Matrix,
+ns:m.0c5pqg,MapBasic,
+ns:m.0c7hj2,FAUST,
+ns:m.0c_hm1,Python 3,
+ns:m.0c_knm,SYMPL,
+ns:m.0cd0_2,MIDletPascal,
+ns:m.0cdph,Visual DialogScript,
+ns:m.0cght6,ATLAS Transformation Language,
+ns:m.0cgkpd,QVT,
+ns:m.0cglf,Common Intermediate Language,
+ns:m.0cgpfs,Object Query Language,
+ns:m.0cgrqt5,ARM assembly language,
+ns:m.0chn2,Planner,1969
+ns:m.0chpd,Lua,1993
+ns:m.0cjbf1,S-algol,
+ns:m.0cjt0w,Model transformation,
+ns:m.0ck33d,XSB,
+ns:m.0ck3wr,λProlog,
+ns:m.0ckh_r,Significantly Prettier and Easier C++ Syntax,
+ns:m.0ckv51,Little b,2004
+ns:m.0clhh3,BASICODE,
+ns:m.0cm55,AIML,
+ns:m.0cm999h,Qt Quick,
+ns:m.0cmlzg,Model transformation language,
+ns:m.0cmnnv,GReAT,
+ns:m.0crht4,ALCOR,
+ns:m.0crk0d,Glagol,
+ns:m.0csw7l,CorVision,
+ns:m.0cvc9,Maclisp,
+ns:m.0cvcp,Lisp Machine Lisp,
+ns:m.0cyxmz,Game Oriented Assembly Lisp,
+ns:m.0cyycx,Symbolic Sound Corporation,
+ns:m.0cz9tkr,Objeck,2008
+ns:m.0czfwr,Polymorphic Programming Language,
+ns:m.0d06y,GNU Octave,
+ns:m.0d1j8,SIMSCRIPT II.5,
+ns:m.0d1w0w,PLANC,
+ns:m.0d3zqj,P#,2003
+ns:m.0d4x4t,SQL:2003,
+ns:m.0d6slq,RunRev,
+ns:m.0d7s6q,Variable Assembly Language,
+ns:m.0d8zvc,3APL,
+ns:m.0d99vn,xTalk,
+ns:m.0d99z3,SuperTalk,
+ns:m.0d_8qw,Flow-based programming,
+ns:m.0d_rd,Befunge,
+ns:m.0dbjtf,Haxe,2005
+ns:m.0dbqww,PAL,
+ns:m.0dc4km,Short Code,
+ns:m.0dfg2,Pliant,
+ns:m.0dg6b3,Operational Control Language,
+ns:m.0dg7746,Smallfuck,
+ns:m.0dg7773,Paintfuck,
+ns:m.0dg778l,Arrow,
+ns:m.0dg77c_,SMETANA,
+ns:m.0dg9lh5,ELENA,2006-06-14
+ns:m.0dg9lhl,Alex Rakov,
+ns:m.0dgcxwt,Argh!,
+ns:m.0dgcy04,Aura,
+ns:m.0dgns29,Cornell University Programming Language,
+ns:m.0dhl03,Abstract State Machine Language,
+ns:m.0dj5cj,Sigmac,
+ns:m.0dj69f,AIS Balise,
+ns:m.0djtnc,PROC procedure language,
+ns:m.0dk05j,PerlScript,
+ns:m.0dk45d,Join-calculus,
+ns:m.0dktz,AutoLISP,
+ns:m.0dndhc,Split-C,
+ns:m.0ds703q,FPr,
+ns:m.0dsbpg6,Rust,2010
+ns:m.0dt1b6,Bsisith,
+ns:m.0dw0c9,Microsoft Visual C#,
+ns:m.0dws8h,BEFLIX,
+ns:m.0dwsjd,Web Language,
+ns:m.0dxpcw,Algebraic Interpretive Dialogue,
+ns:m.0dzjl,Liberty BASIC,1992
+ns:m.0f1qvd,Dao Language,2006
+ns:m.0f2l04,Napier88,
+ns:m.0f2q1,DARPA Agent Markup Language,
+ns:m.0fbzc1,JADE,
+ns:m.0ffx3,MAD,1959
+ns:m.0fkk97,Cobra,
+ns:m.0fl1pc,DAML-S,
+ns:m.0fl2d,BBC BASIC,1981
+ns:m.0fmt2h,NATURAL,
+ns:m.0fp_1y,Visual Basic,
+ns:m.0fpgc8s,Fancy,2010
+ns:m.0fpp07_,TextUML-Syntax,
+ns:m.0fqrgs4,Basic4android,
+ns:m.0fs0gv,FARGO,
+ns:m.0fs3t,PILOT,
+ns:m.0fs5n,SISAL,1983
+ns:m.0fv0dw,BasicX,
+ns:m.0fxfsc,Kyma,
+ns:m.0fzf3d,COFFEE,
+ns:m.0g172n,Hume,
+ns:m.0g341_,Y programming language,
+ns:m.0g54wq,NEWP,
+ns:m.0g6kp3,Deesel,
+ns:m.0g90qh,Cayenne,
+ns:m.0gb_wh,Lisaac,2003
+ns:m.0gc3z,HPGL,
+ns:m.0gd42,Self,1987
+ns:m.0gdtn,A-0 System,
+ns:m.0gdxd,ARITH-MATIC,
+ns:m.0gdxqx,Speedcoding,1953
+ns:m.0gf4q,Abbreviated Test Language for All Systems,
+ns:m.0gf51,ABC ALGOL,
+ns:m.0gf5d,ABCL/1,
+ns:m.0gf5s,ABCL/c+,
+ns:m.0gf6g,ABCL/R,
+ns:m.0gf6t,ABCL/R2,
+ns:m.0gfwm,NewtonScript,1993
+ns:m.0ggc1vz,Delphi,
+ns:m.0ggn7,PureBasic,2000
+ns:m.0gh50t7,Alpoca,2011
+ns:m.0ghmfk,Cadence SKILL,1990
+ns:m.0gjd0jv,Less,2009
+ns:m.0glqmc6,Ciao,1984
+ns:m.0glrmdf,Ceylon,
+ns:m.0gm1m2,Pict,
+ns:m.0gmljm,LANSA,
+ns:m.0gmz9,ObjectPAL,
+ns:m.0gnckq,Chapel,
+ns:m.0gtcqz,SCOOP,
+ns:m.0gtvyj,RDF query language,
+ns:m.0gy1vx_,Opa,2011
+ns:m.0gyz66,Iota and Jot,
+ns:m.0gzl9z,ISLISP,
+ns:m.0gzx5x,AgentSheets,1991
+ns:m.0h0wtq,TXL,
+ns:m.0h22q,QuickBASIC,
+ns:m.0h3vb,Verilog,
+ns:m.0h4ym_,SketchUp Ruby,
+ns:m.0h52xr1,Dart,
+ns:m.0h6g8,PowerBASIC,
+ns:m.0h6g_,IBM BASIC,1981
+ns:m.0h9wb,Poplog,
+ns:m.0hgnb,Plankalkül,
+ns:m.0hjc5m0,CoffeeScript,2009-12-13
+ns:m.0hjlb4k,MoonScript,2011-05-16
+ns:m.0hmvnmb,Programming Syntax,
+ns:m.0hnc442,Qore,
+ns:m.0j3djl7,Julia,2012
+ns:m.0j7njq_,Little Implementation Language,
+ns:m.0j_9brh,SGML,
+ns:m.0jfjdbl,Scilab,
+ns:m.0jgqg,C++,1983
+ns:m.0jp72,J,1990
+ns:m.0jwqb,Hardware description language,
+ns:m.0k04hrk,Micro-Planner,
+ns:m.0k0wc,Abstract machine notation,
+ns:m.0kf72,HyperTalk,
+ns:m.0knvs5v,ParaSail,2009
+ns:m.0kzb_,Modula-2,1978
+ns:m.0l6nk,FLOW-MATIC,1955
+ns:m.0lm5j,Abstract-Type and Scheme-Definition Language,
+ns:m.0lmcc,Accent,1990
+ns:m.0lnrh5r,PL/Ruby,
+ns:m.0lnrh5y,PL/sh,
+ns:m.0lnrh69,PL/Proxy,
+ns:m.0lnrh6h,PL/LOLCODE,
+ns:m.0lnrh6p,PL/Java,
+ns:m.0lnrh6y,PL/Parrot,
+ns:m.0lnrh73,PL/Lua,
+ns:m.0lnrh79,PL/PHP,
+ns:m.0lnrh7h,PL/R,
+ns:m.0lnrh7p,PL/PSM,
+ns:m.0lnrh7w,PL/Python,
+ns:m.0lnrh81,PL/JS,
+ns:m.0lnrh87,PL/Scheme,
+ns:m.0lxk7,Pike,1994
+ns:m.0lyyk,CycL,
+ns:m.0lzc2,Krypton,
+ns:m.0m4ps,AppleScript,1993
+ns:m.0m_lh,IBM 1620,
+ns:m.0n3xv,Miranda,1985
+ns:m.0n6y,Ada,1980
+ns:m.0nd8d,COWSEL,
+ns:m.0p8cb,Magma,
+ns:m.0p8g,Assembly language,
+ns:m.0pcmclv,TTM,1968
+ns:m.0pkgc,Standard ML,
+ns:m.0pl075p,Elixir,2011
+ns:m.0py1hbn,Stylus,2010
+ns:m.0q1x,ALGOL,1958
+ns:m.0q2c,AWK,1977
+ns:m.0ql079r,F*,
+ns:m.0qscfl7,SPL,2007
+ns:m.0r4j3bf,ooc,
+ns:m.0s8y59_,Flex,
+ns:m.0swpzmh,Idris,
+ns:m.0t3_0,Absys,1967
+ns:m.0t3jl,ABLE,
+ns:m.0t3r3,ABSET,
+ns:m.0t43v,Amiga E,
+ns:m.0v3d_v0,Hopscotch,
+ns:m.0vgmh,UnrealScript,1998
+ns:m.0vpk27_,Nimrod,2008
+ns:m.0vsh31n,DAG,2013-04-13
+ns:m.0vshxf6,BAIL,2013
+ns:m.0vztqsk,Xojo,
+ns:m.0w7msm6,Tritium,
+ns:m.0w_19hd,Ya,2012
+ns:m.0wf0b1d,Fountain,
+ns:m.0wrd,Applesoft BASIC,
+ns:m.0wxwn0b,Wolfram Language,
+ns:m.0wyh6j2,Ela,
+ns:m.0wyrdhm,Nemo,2012
+ns:m.0x1xg32,Dolittle,
+ns:m.0x21wvz,Potion,2007
+ns:m.0y51kqp,Nock,2013
+ns:m.0y51ypv,Hoon,
+ns:m.0zbv24y,Acumen,
+ns:m.0zc0qfm,P*,2013
+ns:m.0zn0wgg,DoTS,
