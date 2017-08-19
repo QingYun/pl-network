@@ -1,0 +1,34 @@
+- tried google knowledge graph API - failed
+	- no structured query support, only full text search
+	
+- tried parsing Freebase dump - in progress
+	- invalid RDF
+		- tried using alternative pre-cleaned distribution - failed
+			- sindice - no free download
+			- :BaseKB - no free download
+			- Freebase Easy - data source outdated
+		- correct invalid assertions
+			- with :BaseKB rule
+			- problem with decompress concatenated gzip file
+				- built-in GZipStream - only first part
+					- manually search for gzip header and decompress each chunk
+				- DotNetZip - only first part
+				- sharpZipLib - failed at header validation
+	- data-cleaning needed
+		- CSS == Cansei de Ser Sexy?
+		
+- visualization library 
+	- sigma-based linkurious
+	- sigma.js has no auto-layout support
+	- performance requirement: must use webGL renderer
+	- no individual node/edge style support
+		- hook renderer methods and replace global settings with individual settings before entering the original methods
+	- no edge animation support
+		- mock animation: high original edges and draw new edges
+
+graph database
+	- levelgraph with indexedDB/in-memory leveldb
+	- performance issue on importing, try load on demand
+		- two type of data:
+			- needed for first screen (language names, influence relationships...)
+			- detailed info for individual language (developer, website)
